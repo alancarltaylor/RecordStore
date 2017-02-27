@@ -30,7 +30,7 @@ public class Albums {
     }
 
     public void setAlbumName(String albumName) {
-        AlbumName = albumName;
+        this.AlbumName = albumName;
     }
 
     public String getArtistName() {
@@ -38,6 +38,6 @@ public class Albums {
     }
 
     public void setArtistName(String artistName) {
-        ArtistName = artistName;
+        this.ArtistName = artistName;
     }
 }
